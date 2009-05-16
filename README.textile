@@ -1,0 +1,5 @@
+h1. Band of Strangers
+
+A simple app where people can connect on shared ideas. Share an idea get a response. Convince people to join your project. It could be art, commerce or just fun.
+
+Using Bort template.
